@@ -1,0 +1,5 @@
+{
+  "name": "Thammasat Smart Map",
+  "description": "Interactive campus map with zoom, pan, and category filtering functionality using React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
